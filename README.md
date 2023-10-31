@@ -2,6 +2,8 @@
 
 Circuit GPT is an intelligent AI assistant designed to streamline the process of answering user queries related to substation equipment maintenance and testing. This project leverages Next.js, TypeScript, and the OpenAI GPT-3.5 Turbo API to deliver advanced semantic query processing and data retrieval capabilities. Engineers can easily access maintenance guidance, test procedures, and issue resolution, making equipment maintenance more efficient and reliable.
 
+![Project Circuit-GPT](/public/screenshot.png)
+
 ## Features
 
 ### 1. Semantic Query Processing
