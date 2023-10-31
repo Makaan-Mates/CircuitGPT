@@ -138,7 +138,7 @@ export default function Chat() {
               }
             }}
             spellCheck={false}
-            className="w-full pr-10 text-[#a1a1a1] .placeholder-[#a1a1a1] focus:outline-none bg-[#242424] "
+            className="w-full pr-10 text-[#d4d3d3] .placeholder-[#a1a1a1] focus:outline-none bg-[#242424] "
           />
           <button
             className={clsx(
